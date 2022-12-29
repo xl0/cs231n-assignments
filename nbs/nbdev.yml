@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "cs231n-assignments"
+  site-url: "https://xl0.github.io/cs231n-assignments"
+  description: "Stanford cs231n assignments (2022 edition)"
+  repo-branch: master
+  repo-url: "https://github.com/xl0/cs231n-assignments"
