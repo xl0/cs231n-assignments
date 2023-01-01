@@ -2,4 +2,12 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - 01_impl.ipynb
+      - a1q1_knn.ipynb
+      - a1q1_knn_impl.ipynb
+      - section: cs231n
+        contents:
+          - section: datasets
+            contents:
+              - section: cifar-10-batches-py
+                contents:
+                  - cs231n/datasets/cifar-10-batches-py/readme.html
